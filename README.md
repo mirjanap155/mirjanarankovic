@@ -1,7 +1,3 @@
-Here’s a structured GitHub bio for you as a QA Engineer:  
-
----
-
 ### 🔍 QA Engineer | Manual & Automated Testing | Web & Mobile  
 
 📌 **Mission**  
@@ -34,8 +30,4 @@ const skills = {
 📧 Email: [Your Email]  
 🌍 Portfolio: [Your Website]  
 
-Passionate about breaking software before users do! 🚀  
-
----
-
-Would you like any tweaks to personalize it further? 😊
+Passionate about breaking software before users do! 🚀
